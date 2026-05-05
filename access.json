@@ -1,4 +1,22 @@
 {
-  "S-1-5-21-3530959690-1344960440-4152187725-1002": "2026-06-04",
-  "ANOTHER-SID-HERE": "2026-12-31"
+    "allowed_hwids": [
+        {
+            "username": "ANTOR",
+            "displayUsername": "ANTOR",
+            "sid": "S-1-5-21-3530959690-1344960440-4152187725-1001",
+            "expiryDate": "2030-11-11"
+        },
+        {
+            "username": "ZORO",
+            "displayUsername": "chittu",
+            "sid": "S-1-5-21-3530959690-1344960440-4152187725-1001",
+            "expiryDate": "2026-06-04"
+        },
+        {
+            "username": "ZORO",
+            "displayUsername": "sunny",
+            "sid": "S-1-5-21-3530959690-1344960440-4152187725-1001",
+            "expiryDate": "2026-06-04"
+        }
+    ]
 }
